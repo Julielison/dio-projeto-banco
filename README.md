@@ -31,7 +31,7 @@ Este projeto é um sistema bancário simples desenvolvido em Java. Ele permite a
 
 1. **Clone o repositório**:
     ```bash
-    git clone <URL_do_repositório>
+    git clone https://github.com/Julielison/dio-projeto-banco.git
     ```
 2. **Compile o código**:
     ```bash
